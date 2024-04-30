@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-29T16:22:38 IST" name="Suite" finished-at="2024-04-29T16:23:07 IST" duration-ms="28988">
+    <groups>
+    </groups>
+    <test started-at="2024-04-29T16:22:38 IST" name="Test" finished-at="2024-04-29T16:23:07 IST" duration-ms="28988">
+      <class name="testClass.CWAlotVisitorsParkingLotTest">
+        <test-method is-config="true" signature="loadConfig()[pri:0, instance:testClass.CWAlotVisitorsParkingLotTest@5b03b9fe]" started-at="2024-04-29T16:22:36 IST" name="loadConfig" finished-at="2024-04-29T16:22:38 IST" duration-ms="2009" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadConfig -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testClass.CWAlotVisitorsParkingLotTest@5b03b9fe]" started-at="2024-04-29T16:22:38 IST" name="beforeMethod" finished-at="2024-04-29T16:22:53 IST" duration-ms="15189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="visitorsParking()[pri:0, instance:testClass.CWAlotVisitorsParkingLotTest@5b03b9fe]" started-at="2024-04-29T16:22:53 IST" name="visitorsParking" finished-at="2024-04-29T16:23:05 IST" duration-ms="11579" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- visitorsParking -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testClass.CWAlotVisitorsParkingLotTest@5b03b9fe]" started-at="2024-04-29T16:23:05 IST" name="tearDown" finished-at="2024-04-29T16:23:07 IST" duration-ms="2095" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="aftersuite()[pri:0, instance:testClass.CWAlotVisitorsParkingLotTest@5b03b9fe]" started-at="2024-04-29T16:23:07 IST" name="aftersuite" finished-at="2024-04-29T16:23:09 IST" duration-ms="2408" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftersuite -->
+      </class> <!-- testClass.CWAlotVisitorsParkingLotTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
